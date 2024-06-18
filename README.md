@@ -38,6 +38,7 @@ Step 3: Install Dependencies
     Make sure that requirements.txt is located in your current directory.
 
 Step 4: Run Python Code
+
 Run the Python Script: After the setup is complete and all dependencies are installed, you can run the Python script by typing:
 ```
 python netflix.py
